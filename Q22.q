@@ -1,0 +1,1 @@
+ closePending --> !closePending
